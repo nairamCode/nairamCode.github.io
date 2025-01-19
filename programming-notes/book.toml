@@ -1,0 +1,6 @@
+[book]
+authors = ["User"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programming notes"
